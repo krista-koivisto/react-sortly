@@ -1,3 +1,7 @@
+## [3.1.0] 2020-04-17
+### Changed
+- Add item prop for restricting parenting
+
 ## [3.0.0-alpha.5] 2019-12-13
 ### Changed
 - Use React hooks
